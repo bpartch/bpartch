@@ -21,6 +21,10 @@ module.exports = {
         name: 'Twitter',
         url: 'https://twitter.com/benpartch',
       },
+      {
+        name: 'Github',
+        url: 'https://github.com/bpartch',
+      },
     ],
   },
   plugins: [

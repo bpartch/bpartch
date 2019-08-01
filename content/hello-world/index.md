@@ -53,6 +53,6 @@ const amsterdam = "cool";
 ```
 
 <!-- Task List -->
-* [x] Task 1
-* [x] Task 2
+* [ ] Task 1
+* [ ] Task 2
 * [ ] Task 3
