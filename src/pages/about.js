@@ -9,7 +9,7 @@ const AboutPage = ({ data }) => {
       <SEO title="About" description="Learn more about Ben Partch" />
       <Content>
         <h1>About</h1>
-        <p>Hi. I'm Ben, nice to meet you. 🤣 This is maybe fish going to be my website. Let's give it a few <strikethrough>days</strikethrough> Months and see what I can make it do. 💥</p>
+        <p>Hi. I'm Ben, nice to meet you. 🤣 This is maybe going to be my website. Let's give it a few <strikethrough>days</strikethrough> Months and see what I can make it do. 💥</p>
       </Content>
     </Container>
   )
