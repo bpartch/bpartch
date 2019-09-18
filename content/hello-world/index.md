@@ -2,7 +2,7 @@
 title: Hello World
 date: "2019-07-30"
 cover: "cover.jpg"
-tags: ["example", "demo"]
+tags: ["example", "demo", "fish"]
 ---
 
 <!-- Headings -->
