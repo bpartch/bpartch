@@ -30,7 +30,10 @@ module.exports = {
   plugins: [
     {
       resolve: 'gatsby-theme-amsterdam',
-      options: {},
+      options: {
+        iconPath: "src/images/favicon.jpg",
+        progressIndicator: "false",
+      },
     },
   ],
 }
