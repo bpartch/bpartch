@@ -5,7 +5,7 @@ cover: "cover.jpg"
 tags: ["electronics", "wifi", "devices"]
 ---
 
-This is a list of devices that connect to out network. 💥
+This is a list of devices that connect to our network. 💥
 
 ##Ben's Devices
 
