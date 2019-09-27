@@ -7,4 +7,4 @@ tags: ["example", "demo", "tag 4"]
 
 This is just a test post to see what a second post would look like. 💠
 
-Photo by Daniil Kuželev on Unsplash
+Photo by: Daniil Kuželev on Unsplash
