@@ -2,7 +2,7 @@
 title: Devices
 date: "2019-09-27"
 cover: "cover.jpg"
-tags: ["electronics", "wifi", "devices"]
+tags: ["electronics", "wifi", "local" "network"]
 ---
 
 This is a list of devices that connect to our network. 💥
