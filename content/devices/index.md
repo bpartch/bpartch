@@ -17,7 +17,7 @@ This is a list of devices that connect to our network. 💥
 * Apple TV
 * iPhone 6S +
 * iPhone 5S
-* 32" Sony Vizio TV
+* Sony Vizio TV
 
 ##Britt's Devices
 
@@ -29,4 +29,4 @@ This is a list of devices that connect to our network. 💥
 * XBOX
 * iPhone 6S +
 
-Photo by Arnel Hasanovic on Unsplash
+Photo by: Arnel Hasanovic on Unsplash
