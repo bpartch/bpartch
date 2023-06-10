@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.13.42",
+    "gatsby": "^4.25.7",
     "gatsby-theme-amsterdam": "^0.0.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
